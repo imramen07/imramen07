@@ -1,4 +1,4 @@
-# imramen07
+# Ramen
 
 Computer Engineering student focusing on modular backend engineering, optimized search architectures, and dense-sparse hybrid Retrieval-Augmented Generation (RAG) pipelines.
 
